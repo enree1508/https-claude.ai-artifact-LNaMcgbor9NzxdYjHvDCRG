@@ -1,0 +1,8 @@
+Site Beatriz Lago Advocacia Criminal
+
+Arquivo unico: index.html
+Tudo (imagens, fontes e textos) ja esta dentro dele.
+
+Para publicar: envie o index.html para a hospedagem, na pasta principal do dominio.
+
+Contatos no site: WhatsApp (98) 98438-0560, beatrizrlagoadv@gmail.com, OAB n 25.966
